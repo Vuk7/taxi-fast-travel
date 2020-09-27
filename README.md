@@ -1,5 +1,6 @@
 # taxi-fast-travel
 Taxi fast travel filterscript for samp.
+- Video: https://streamable.com/dv5711
 
 ## Instalacija:
 U mapu scriptfiles staviti datoteku taxi.pwn, zatim ju otvoriti sa programom pawno. 
