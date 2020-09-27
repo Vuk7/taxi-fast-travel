@@ -10,7 +10,7 @@ u datoteki server.cfg pod liniju filterscripts dodati taxi (primjer: filterscrip
 
 Da bi sve ovo radilo potrebno je imati a_samp, zcmd i YSI\y_ini includove, te sscanf i streamer pluginove.
 
-Zasluge: 
+## Zasluge: 
 - a_samp: SAMP Team
 - zcmd: Zeex
 - YSI: Y-Less
