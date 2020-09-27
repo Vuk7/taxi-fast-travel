@@ -8,4 +8,11 @@ TAXI_CIJENA (cijena jedne voznje) i DIALOG_TAXI (id dialoga za taxi).
 Nakon toga potrebno ju je kompajlirati. Zatim je potrebno kreirati mapu Taxi u mapi scriptfiles, te
 u datoteki server.cfg pod liniju filterscripts dodati taxi (primjer: filterscripts taxi).
 
-Da bi sve ovo radilo potrebno je imati zcmd i YSI\y_ini includove, te sscanf i streamer pluginove.
+Da bi sve ovo radilo potrebno je imati a_samp, zcmd i YSI\y_ini includove, te sscanf i streamer pluginove.
+
+Zasluge: 
+a_samp: SAMP Team
+zcmd: Zeex
+YSI: Y-Less
+sscanf: Maddinat0r
+streamer: Incognito
